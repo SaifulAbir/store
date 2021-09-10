@@ -1,0 +1,5 @@
+const PRODUCT = "/";
+
+export {
+  PRODUCT,
+};
